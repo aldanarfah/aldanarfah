@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Aldan Haposan Arfah Banner" />
+  <img src="baner.png" alt="Aldan Haposan Arfah Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aldan</h1>
